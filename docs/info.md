@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+3 switches are used as the input for the adder. Flipping one will turn on a LED at the output. This is to show how adding in binary works.
 
 ## How to test
 
-Explain how to use your project
+FLIP A SWITCH :) either IN0, IN1, or IN2.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+You're gonna need 2 LEDs
